@@ -1,0 +1,26 @@
+#images-container{
+    width: 100%;
+    height: 600px;
+
+    gap: 20px;
+}
+
+#images-crousel, #images-display{
+    height: 600px;
+}
+
+#images-crousel{
+    width: 20%;
+    background: red;
+} 
+
+#images-display{
+    width: 80%;
+    background: green;
+}
+
+#recommendations{
+    margin-top: 20px;
+    justify-content: space-around;
+}
+
